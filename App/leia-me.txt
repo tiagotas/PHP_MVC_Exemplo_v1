@@ -1,0 +1,33 @@
+██████╗ ██╗  ██╗██████╗     ███╗   ███╗██╗   ██╗ ██████╗
+██╔══██╗██║  ██║██╔══██╗    ████╗ ████║██║   ██║██╔════╝
+██████╔╝███████║██████╔╝    ██╔████╔██║██║   ██║██║     
+██╔═══╝ ██╔══██║██╔═══╝     ██║╚██╔╝██║╚██╗ ██╔╝██║     
+██║     ██║  ██║██║         ██║ ╚═╝ ██║ ╚████╔╝ ╚██████╗
+╚═╝     ╚═╝  ╚═╝╚═╝         ╚═╝     ╚═╝  ╚═══╝   ╚═════╝ 
+         https://www.youtube.com/c/TiagoASilvaProf
+                https://www.tiago.blog.br
+
+
+Olá! Esse projeto faz parte da disciplina Programação Web com PHP.
+Nesta disciplina estudamos conceitos de Orientação a Objetos e Padrão MVC.
+
+
+           ==> Veja as videoaulas de reforço na playist abaixo: <==
+-> https://www.youtube.com/watch?v=7_eSjWJS_bg&list=PLHVpcBDJr5dnryHpC8t4OUI3JJF2xIBc9
+
+
+
+Também são tratados pontos fundamentais como Orientação a Objetos e Arrays.
+Os vídeos estão disponpíveis abaixo:
+-> https://www.youtube.com/watch?v=CHcNtgUi6B8
+-> https://www.youtube.com/watch?v=2_cY8gWZ_As
+-> https://www.youtube.com/watch?v=o7Lsu0Wzdos&list=PLHVpcBDJr5dkKaWzhI097kaLWoX1Zc6KA
+
+Para aprender a configurar o ambiente de desenvolvimento com PHP e MySQL,
+siga a playlist abaixo:
+-> https://www.youtube.com/watch?v=16Efwzm1944&list=PLHVpcBDJr5dn5xP1FWclsDgSSVNLzPit7
+
+Nesta disciplina serão usados conceitos de banco de dados como MySQL Workbench,
+SELECT, UPDATE e DELETE. Abaixo está uma playlist com tudo que você precisa saber
+sobre MySQL e os conceitos utilizados:
+-> https://www.youtube.com/watch?v=4TJe2T8MTrg&list=PLHVpcBDJr5dmEJ1dSRvi1N8I_ZFp-BdQO

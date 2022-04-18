@@ -25,9 +25,11 @@ class PessoaDAO
     {
         // DSN (Data Source Name) onde o servidor MySQL será encontrado
         // (host) em qual porta o MySQL está operado e qual o nome do banco pretendido
+        // Mais informações sobre DSN: https://www.php.net/manual/pt_BR/ref.pdo-mysql.connection.php
         $dsn = "mysql:host=localhost:3306;dbname=db_mvc";
 
         // Criando a conexão e armazenado na propriedade definida para tal.
+        // Veja o que é PDO: https://www.php.net/manual/pt_BR/intro.pdo.php
         $this->conexao = new PDO($dsn, 'root', 'cajuru@2022');
     }
 
@@ -46,6 +48,7 @@ class PessoaDAO
         // estamos acessando o método prepare dentro da propriedade que guarda a conexão
         // com o MySQL, via operador seta "->". Isso significa que o prepare "está dentro"
         // da propriedade $conexao e recebe nossa string sql com os devidor marcadores.
+        // Para saber mais sobre Preparated Statements, leia: https://www.codigofonte.com.br/artigos/evite-sql-injection-usando-prepared-statements-no-php
         $stmt = $this->conexao->prepare($sql);
 
 

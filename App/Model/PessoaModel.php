@@ -9,6 +9,7 @@ class PessoaModel
 {
     /**
      * Declaração das propriedades conforme campos da tabela no banco de dados.
+     * para saber mais sobre Propriedades de Classe, leia: https://www.php.net/manual/pt_BR/language.oop5.properties.php
      */
     public $id, $nome, $cpf, $data_nascimento;
 
@@ -31,6 +32,7 @@ class PessoaModel
         $dao = new PessoaDAO(); 
 
         // Verificando se a propriedade id foi preenchida no model
+        // Para saber mais sobre a palavra-chave this, leia: https://pt.stackoverflow.com/questions/575/quando-usar-self-vs-this-em-php
         if(empty($this->id))
         {
             // Chamando o método insert que recebe o próprio objeto model
@@ -75,6 +77,7 @@ class PessoaModel
 
         $obj = $dao->selectById($id); // Obtendo um model preenchido da camada DAO
 
+        // Para saber mais operador ternário, leia: https://pt.stackoverflow.com/questions/56812/uso-de-e-em-php
         return ($obj) ? $obj : new PessoaModel(); // Operador Ternário
 
         /*if($obj)

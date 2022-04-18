@@ -12,9 +12,11 @@ class PessoaController
 {
     /**
      * Os métodos index serão usados para devolver uma View.
+     * Para saber mais sobre métodos estáticos, leia: https://www.php.net/manual/pt_BR/language.oop5.static.php
      */
     public static function index()
     {
+        // Para saber mais sobre include , leia: https://www.php.net/manual/pt_BR/function.include.php
         include 'Model/PessoaModel.php'; // inclusão do arquivo model.
         
         $model = new PessoaModel(); // Instância da Model
@@ -34,6 +36,7 @@ class PessoaController
 
         if(isset($_GET['id'])) // Verificando se existe uma variável $_GET
             $model = $model->getById( (int) $_GET['id']); // Typecast e obtendo o model preenchido vindo da DAO.
+            // Para saber mais sobre Typecast, leia: https://tiago.blog.br/type-cast-ou-conversao-de-tipos-do-php-isso-pode-te-ajudar-muito/
 
         include 'View/modules/Pessoa/FormPessoa.php'; // Include da View. Note que a variável $model está disponível na View.
     }
