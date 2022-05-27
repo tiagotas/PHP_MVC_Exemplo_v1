@@ -26,7 +26,7 @@ Neste repositório você verá a implementação do MVC em PHP com os recursos b
 - https://www.youtube.com/watch?v=7_eSjWJS_bg&list=PLHVpcBDJr5dnryHpC8t4OUI3JJF2xIBc9
 
 ## Conteúdo das Videoaulas
-### VÍDEOAULA 1:
+### VIDEOAULA 1 - CONCEITOS BÁSICOS E CONSTRUÇÃO (1h):
 
 - 00:00:00 - Introdução
 - 00:01:30 - O que é PHP e MVC?
@@ -57,7 +57,7 @@ Neste repositório você verá a implementação do MVC em PHP com os recursos b
 - 01:05:21 - Juntando dados da Model com View na Controller
 - 01:06:18 - Apresentando Dados do MySQL na View
 
-### VÍDEOAULA 2:
+### VIDEOAULA 2 - CONTINUAÇÃO CONCEITOS BÁSICOS (31min):
 
 - 00:00 - Introdução
 - 01:30 - Implementando o método Delete na DAO
@@ -77,7 +77,7 @@ Abaixo está o link do repositório do MVC mais avançado (videoaula 3 em diante
 
 
 ## Também são tratados pontos fundamentais como **Orientação a Objetos e Arrays**.
-Os vídeos estão disponpíveis abaixo:
+Os vídeos estão disponíveis abaixo:
 - https://www.youtube.com/watch?v=CHcNtgUi6B8
 - https://www.youtube.com/watch?v=2_cY8gWZ_As
 - https://www.youtube.com/watch?v=o7Lsu0Wzdos&list=PLHVpcBDJr5dkKaWzhI097kaLWoX1Zc6KA
