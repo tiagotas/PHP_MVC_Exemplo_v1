@@ -19,6 +19,51 @@ Neste repositório você verá a implementação do MVC em PHP com os recursos b
 ### Veja as videoaulas de reforço na playist abaixo:         
 - https://www.youtube.com/watch?v=7_eSjWJS_bg&list=PLHVpcBDJr5dnryHpC8t4OUI3JJF2xIBc9
 
+## Conteúdo das Videoaulas
+### VÍDEOAULA 1:
+
+- 00:00:00 - Introdução
+- 00:01:30 - O que é PHP e MVC?
+- 00:02:15 - Por que usar MVC?
+- 00:04:00 - O que você vai aprender
+- 00:04:30 - Criando Estrutura do Projeto
+- 00:07:36 - Criando BD no MySQL Workbench
+- 00:11:56 - Abrindo Projeto no VS Code
+- 00:15:15 - Criando arquivos PHP VS Code
+- 00:18:20 - Iniciando Servidor PHP
+- 00:20:00 - Configurando aparência do VS Code
+- 00:22:00 - Navegação por Rotas com parse_url
+- 00:27:31 - Função de cada Camada MVC
+- 00:28:12 - Criando a Camada Controller
+- 00:32:25 - Criando Formulário HTML para Cadastro
+- 00:36:37 - Como processar um formulário com MVC
+- 00:39:10 - Criando a Camada Model
+- 00:40:25 - Criando a Camada DAO
+- 00:40:40 - Método construtor na DAO e conexão com MySQL
+- 00:46:55 - Chamando o DAO na Model
+- 00:47:40 - Chamando a Model na Controller
+- 00:47:55 - Como Transportar Dados da View para DAO
+- 00:51:27 - Inserindo no MySQL na Camada DAO
+- 00:57:07 - Verificando dados inseridos no Workbench
+- 00:58:00 - Construindo a View de Listagem
+- 01:00:25 - Implementando Método Select na DAO
+- 01:04:11 - Método getAllRows na Camada Model
+- 01:05:21 - Juntando dados da Model com View na Controller
+- 01:06:18 - Apresentando Dados do MySQL na View
+
+### VÍDEOAULA 2:
+
+- 00:00 - Introdução
+- 01:30 - Implementando o método Delete na DAO
+- 03:40 - Implementando o método Update na DAO
+- 05:10 - Editando a View para abrir detalhes no Form
+- 07:05 - Implementando o método SelectById na DAO
+- 10:10 - Chamando o método getById da Model na Controller
+- 10:40 - Criando o método getById na Camada Model
+- 16:23 - Editando a View Form para receber os dados
+- 26:20 - Implementando a funcionalidade de salvar alterações
+- 35:00 - Mensagem para caso a lista estiver vazia
+
 
 ## MVC Com Autoload, Namespace, Try Catch e Herança
 Abaixo está o link do repositório do MVC mais avançado (videoaula 3 em diante):
