@@ -42,7 +42,7 @@ Neste repositório você verá a implementação do MVC em PHP com os recursos b
 - 00:15:15 - Criando arquivos PHP VS Code
 - 00:18:20 - Iniciando Servidor PHP
 - 00:20:00 - Configurando aparência do VS Code
-- 00:22:00 - Navegação por Rotas com parse_url
+- 00:22:00 - Navegação por Rotas com ```parse_url```
 - 00:27:31 - Função de cada Camada MVC
 - 00:28:12 - Criando a Camada Controller
 - 00:32:25 - Criando Formulário HTML para Cadastro
