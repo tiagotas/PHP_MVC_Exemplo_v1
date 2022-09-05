@@ -15,6 +15,10 @@
 Olá! Esse projeto faz parte da disciplina Programação Web com PHP. Nesta disciplina estudamos conceitos de Orientação a Objetos e Padrão MVC. 
 Neste repositório você verá a implementação do MVC em PHP com os recursos básicos. Para conteúdos mais avançados consulte o outro repositório: https://github.com/tiagotas/PHP_MVC_Exemplo_v2
 
+## Configuração do Ambiente de Desenvolvimento
+- **Instalação e Configuração do PHP, VS Code e MySQL**:
+- Playlist: https://www.youtube.com/playlist?list=PLHVpcBDJr5dn5xP1FWclsDgSSVNLzPit7
+
 ## Como ver funcionando:
 - Faça o Forward Engineer do Banco de Dados no MySQL Workbench
 - Abra a pasta App no VS Code e via terminal inicialize o servidor do PHP
